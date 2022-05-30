@@ -1,0 +1,31 @@
+@media screen and (max-width:1000px) {
+ 
+    .aa{
+   
+       margin-right: 140px;
+   }
+   .po{
+       margin: 10px;
+       text-align: center;
+   }
+   #demo{
+    height: 300px;
+    width: 400px;
+    }
+    .feathet2 i{
+        margin-left: 50px;
+        color: black;
+    }
+    .thi{
+margin-left: 150px;;    
+
+}
+.ico{
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}.ab-im{
+    height: 220px;
+    width: 420px;
+}
+}

@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Lato:wght@700&family=Licorice&family=Pacifico&family=Quintessential&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.logo{
+    height: 90px;
+}
+.nav-item i{
+    
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+}
+.aadd{
+    background-color: blueviolet;
+    width: 180px;
+    border-right:red;
+}
+.header2{
+    background-color: blue;
+
+}
+.uni{
+    margin-left: 20px;
+    cursor: pointer;
+    font-size: 40px;
+    color: white;
+letter-spacing: 2px;
+text-decoration: none;
+}
+.edu{
+    margin-left: 20px;
+    cursor: pointer;
+   font-weight: bolder;
+    /* font-family: 'Akaya Telivigala', cursive; */
+    color: white;
+letter-spacing: 10px;
+text-decoration: none;
+}
+.logo3{
+    color: aliceblue;
+font-size: 50px;   
+ margin-right: 20px;
+
+}
+.logo2{
+    margin-right: 20px;
+    color: aliceblue;
+    font-size: 50px;
+}
+.ss{
+cursor: pointer;
+    color: aliceblue;
+margin-right: 20px;
+}
+.link a{
+    text-align: center;
+}
+.gg{
+    text-align: center;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+        background-color: beige;
+   
+}
+.ga{
+    text-align: center;
+    height: 40px;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+        background-color: beige;
+}
+.bx{
+    color: aliceblue;
+    font-size: 50px;
+}
+#demo{
+height: 600px;
+width: 1000px;
+}
+.neos{
+    margin-top: 10px;
+}
+.feather i{
+    color: black;
+    margin-left: 50px;
+}
+.feathet2 i{
+
+  
+    margin-left: 150px;
+    color: black;
+}
+.aass{
+    font-size: 60px;
+    margin-top: 20px;
+color: black;
+}
+.unu3{
+    margin-top: 50px;
+    height: 220px;
+    width: 220px;
+}
+.kk{
+    float: left;
+    width: 200px;
+}
+.feather{
+float: left;
+}
+.join{
+    background-color: aqua;
+    margin-top: 20px;
+}
+.ee{
+    margin: 20px;
+}
+.thi{
+    margin-top: 80px;
+}
+.btn-jj{
+    height: 40px;
+    width: 120px;
+    background-color: blue;
+    color: white;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+.news{
+    margin-top: 20px;
+}
+.hre{
+    border: 4px solid blue;
+border-bottom: none;
+width: 20px;
+transform: rotate(90deg);
+position: absolute;
+}
+.lat{
+    margin-left: 40px;
+}
+.pr{
+    padding: 20px;
+    text-align: center;
+}
+.pr:hover{
+border: 2px solid blue;
+}
+.img-a{
+    text-align: center;
+    padding: 10px;
+    border: 2px solid darkgrey;
+}
+.ab-im{
+    height: 320px;
+    width: 620px;
+}
+.about-uni{
+    margin-top: 30px;
+}
+.ico{
+    padding: 10px;
+    border: 2px solid black;
+}
+.ico i{
+    margin-left: 10px;
+    color: blue;
+}
+.reseant-post {
+    padding: 10px;
+    border: 2px solid black;
+}
+.catagory{
+    border: 2px solid black;
+}
+.uni5{
+    margin-left: 40px;
+
+    margin-top: 30px;
+    height: 50px;
+}
+.uni5-lo{
+    margin-left: 40px;
+}
+.plj i{
+    font-size: 25px;
+    color: black;
+}
+.foter{
+    padding: 20px;
+    margin-top: 20px;
+    background-color: burlywood;
+}
